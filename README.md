@@ -16,7 +16,7 @@ Installs the base stuff
 Install a bunch of pacman packages
 
 ```bash
-sudo pacman -S fish fastfetch nautilus minecraft-launcher flatpak eza discord micro adobe-source-han-sans-jp-fonts balena-etcher brightnessctl git mirage npm nodejs-lts-jod power-profiles-daemon ttf-cascadia-code-nerd ttf-cscadia-mono-nerd ttf-fira-sans ttf-firacode-nerd ttf-hanazono ttf-iosevka-nerd ttf-iosevkaterm-nerd ttf-jetbrains-mono ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-sazanami ufw htop noto-fonts-emoji python-pip
+sudo pacman -S fish fastfetch nautilus minecraft-launcher flatpak eza discord micro adobe-source-han-sans-jp-fonts balena-etcher brightnessctl git mirage npm nodejs-lts-jod power-profiles-daemon ttf-cascadia-code-nerd ttf-cscadia-mono-nerd ttf-fira-sans ttf-firacode-nerd ttf-hanazono ttf-iosevka-nerd ttf-iosevkaterm-nerd ttf-jetbrains-mono ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-sazanami ufw htop noto-fonts-emoji python-pip hyprpolkitagent
 ```
 
 ## Step 3: Install yay
